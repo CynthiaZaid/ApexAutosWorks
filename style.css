@@ -29,6 +29,18 @@ body {
           drop-shadow(0 0 20px rgba(205, 168, 115, 0.4));
 }
 
+
+
+
+.nav-logo:active {
+  transform: scale(0.97);
+  filter: drop-shadow(0 0 10px rgba(205, 168, 115, 0.6));
+}
+
+
+
+
+
 .navbar nav a {
   margin: 0 12px;
   color: #f0f0f0;
