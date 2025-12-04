@@ -137,6 +137,20 @@ body {
 .card:hover { transform: translateY(-6px); }
 .card h3 { color: #cda873; }
 
+
+
+/* Smaller description text inside service cards */
+.card p {
+  font-size: 0.85rem;     /* smaller text */
+  line-height: 1.5;
+  color: #333;           /* optional: dark gray for readability */
+}
+
+
+
+
+
+
 /* WHY */
 .why {
   display: flex;
