@@ -141,8 +141,8 @@ body {
 
 /* Smaller description text inside service cards */
 .card p {
-  font-size: 0.55rem;     /* smaller text */
-  line-height: 1.0;
+  font-size: 0.75rem;     /* smaller text */
+  line-height: 1.4;
   color: #333;           /* optional: dark gray for readability */
 }
 
